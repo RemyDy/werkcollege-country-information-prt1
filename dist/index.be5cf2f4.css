@@ -1,0 +1,15 @@
+
+#list-countries{
+    display: flex;
+    flex-direction: row;
+    justify-items: end;
+    list-style-type: none;
+    height: auto;
+    width: 100px;
+}
+
+.flag{
+    height:auto;
+    width: 50px;
+}
+/*# sourceMappingURL=index.be5cf2f4.css.map */
